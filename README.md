@@ -22,13 +22,13 @@ The project follows a structured ETL (Extract, Transform, Load) pipeline:
 ## Project Deliverables & Visual Preview
 
 ### 1. Industry Billing Report
-Aggregates invoice volume, billed value, and collected revenue by industry and audit status (Complete/Pending/Incomplete), calculating outstanding balance and collection rate for each industry. Outstanding balance ranges from **₹172M (IT)** and **₹188M (FMCG)** up to **₹227M (Textiles)** and **₹223M (Manufacture)**.
+Breaks down every invoice by **Industry** and **Audit Status** (Complete / Incomplete / Pending), reporting Invoice Volume, Billed Value, Collected Revenue, Outstanding Balance, and Collection Rate for each combination. The report totals **7,206** invoices with a combined Billed Value of **₹6.97B** and Collected Revenue of **₹5.26B**, leaving an Outstanding Balance of **₹1.71B**.
 
 <img width="1007" height="502" alt="image" src="https://github.com/user-attachments/assets/665324a7-059f-4b9e-b50f-ad102ff5dd5d" />
 
 
 ### 2. Segment Billing Report
-Aggregates invoices issued, billed exposure, and cash recovered by client segment (Enterprise/Mid Market/SMB) and audit status, calculating uncollected exposure per segment. Enterprise carries the largest share of uncollected exposure at **₹604M (35%)**, followed by SMB at **₹566M (33%)** and Mid Market at **₹540M (32%)**. Across segments, billed value runs roughly **₹2.3B** each, with recovered cash between **₹1.73B–₹1.80B**.
+Breaks down every invoice by **Client Segment** (Enterprise / Mid Market / SMB) and **Audit Status**, reporting Invoices Issued, Billed Exposure, Cash Recovered, and Uncollected Exposure for each combination. The report totals **7,206** invoices with a combined Billed Exposure of **₹6.97B** and Cash Recovered of **₹5.26B**, leaving an Uncollected Exposure of **₹1.71B**.
 
 <img width="1074" height="265" alt="image" src="https://github.com/user-attachments/assets/0151eaed-217d-4ffa-9071-a5ead7eb166f" />
 
