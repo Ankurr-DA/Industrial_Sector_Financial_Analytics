@@ -37,7 +37,7 @@ An interactive dashboard displaying key billing metrics: **₹6.97B** Total Invo
 #### Interactive Transaction Status Filters
 The dashboard features large **Complete / Incomplete / Pending** filter buttons at the top, allowing users to instantly filter every chart on the dashboard down to a single audit status — isolating fully reconciled invoices, invoices with data or payment gaps, or invoices still awaiting payment.
 
-> 📄 [**Tableau Dashboard Direct Link**](#) <!-- Add your published Tableau Public link here -->
+> 📄 [**Tableau Dashboard Direct Link**](https://public.tableau.com/views/IndustrialSectorFinancialAnalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <!-- Add your published Tableau Public link here -->
 
 <img width="1164" height="776" alt="Industrial Sector Financial Analytics Dashboard" src="./industrial_sector_dashboard_no_margin.png" />
 
