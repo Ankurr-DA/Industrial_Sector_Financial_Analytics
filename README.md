@@ -39,7 +39,7 @@ The dashboard features large **Complete / Incomplete / Pending** filter buttons 
 
 > 📄 [**Tableau Dashboard Direct Link**](https://public.tableau.com/views/IndustrialSectorFinancialAnalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <!-- Add your published Tableau Public link here -->
 
-<img width="1164" height="776" alt="Industrial Sector Financial Analytics Dashboard" src="./industrial_sector_dashboard_no_margin.png" />
+<img width="1164" height="776" alt="industrial_sector_dashboard_no_margin" src="https://github.com/user-attachments/assets/d2f08ead-b381-4d00-b284-329f49a90a4b" />
 
 ---
 
