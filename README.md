@@ -24,7 +24,8 @@ The project follows a structured ETL (Extract, Transform, Load) pipeline:
 ### 1. Industry Billing Report
 Aggregates invoice volume, billed value, and collected revenue by industry and audit status (Complete/Pending/Incomplete), calculating outstanding balance and collection rate for each industry. Outstanding balance ranges from **₹172M (IT)** and **₹188M (FMCG)** up to **₹227M (Textiles)** and **₹223M (Manufacture)**, with collection rates spanning **73.65% (Logistics)** to **78.32% (IT)**.
 
-<!-- Add your Industry_Billing.xlsx screenshot link here -->
+<img width="1007" height="502" alt="image" src="https://github.com/user-attachments/assets/665324a7-059f-4b9e-b50f-ad102ff5dd5d" />
+
 
 ### 2. Segment Billing Report
 Aggregates invoices issued, billed exposure, and cash recovered by client segment (Enterprise/Mid Market/SMB) and audit status, calculating uncollected exposure per segment. Enterprise carries the largest share of uncollected exposure at **₹604M (35%)**, followed by SMB at **₹566M (33%)** and Mid Market at **₹540M (32%)**. Across segments, billed value runs roughly **₹2.3B** each, with recovered cash between **₹1.73B–₹1.80B**.
