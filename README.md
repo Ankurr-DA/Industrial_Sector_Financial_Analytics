@@ -30,7 +30,7 @@ Aggregates invoice volume, billed value, and collected revenue by industry and a
 ### 2. Segment Billing Report
 Aggregates invoices issued, billed exposure, and cash recovered by client segment (Enterprise/Mid Market/SMB) and audit status, calculating uncollected exposure per segment. Enterprise carries the largest share of uncollected exposure at **₹604M (35%)**, followed by SMB at **₹566M (33%)** and Mid Market at **₹540M (32%)**. Across segments, billed value runs roughly **₹2.3B** each, with recovered cash between **₹1.73B–₹1.80B**.
 
-<!-- Add your Segment_Billing.xlsx screenshot link here -->
+<img width="1074" height="265" alt="image" src="https://github.com/user-attachments/assets/0151eaed-217d-4ffa-9071-a5ead7eb166f" />
 
 ### 3. Live Tableau Executive Dashboard
 An interactive dashboard displaying key billing metrics: **₹6.97B** Total Invoice Amount, **₹5.26B** Total Collected Volume, **₹1.71B** Total Outstanding Balance, and **7,206** Total Invoices. The dashboard features breakdown charts for Outstanding Balance by Industry, Uncollected Exposure per Segment, Collection Rate per Industry, and Billed vs. Recovered Cash per Segment.
