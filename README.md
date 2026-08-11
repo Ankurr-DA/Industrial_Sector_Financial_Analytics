@@ -22,7 +22,7 @@ The project follows a structured ETL (Extract, Transform, Load) pipeline:
 ## Project Deliverables & Visual Preview
 
 ### 1. Industry Billing Report
-Aggregates invoice volume, billed value, and collected revenue by industry and audit status (Complete/Pending/Incomplete), calculating outstanding balance and collection rate for each industry. Outstanding balance ranges from **₹172M (IT)** and **₹188M (FMCG)** up to **₹227M (Textiles)** and **₹223M (Manufacture)**, with collection rates spanning **73.65% (Logistics)** to **78.32% (IT)**.
+Aggregates invoice volume, billed value, and collected revenue by industry and audit status (Complete/Pending/Incomplete), calculating outstanding balance and collection rate for each industry. Outstanding balance ranges from **₹172M (IT)** and **₹188M (FMCG)** up to **₹227M (Textiles)** and **₹223M (Manufacture)**.
 
 <img width="1007" height="502" alt="image" src="https://github.com/user-attachments/assets/665324a7-059f-4b9e-b50f-ad102ff5dd5d" />
 
